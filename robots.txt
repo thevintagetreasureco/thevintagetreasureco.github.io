@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thevintagetreasureco.github.io/sitemap.xml
